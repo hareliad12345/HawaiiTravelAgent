@@ -27,14 +27,14 @@
 - 🌋 אפיזודה 57 צפויה 22–26.11 – אם מתחילה, ישר לפארק.
 
 ### ה' 26.11 — Thanksgiving · יום המכתש
-- Kīlauea Iki (בוקר מוקדם) → Nāhuku lava tube → Devastation Trail → Chain of Craters (Mauna Ulu, Puʻu Loa, Hōlei Sea Arch) + 1–2 נקודות שדקרו. ערב: אוכל בדירה + זוהר.
+- Kīlauea Iki (בוקר מוקדם; יער גשם על השפה + רצפת לוע) → Nāhuku lava tube (יער שרכי עץ ענקיים) → **Kīpukapuaulu (Bird Park, לולאה 1.9 ק"מ ביער ילידי עתיק עם עצי koa)** → Devastation Trail → Chain of Craters (Mauna Ulu, Puʻu Loa, Hōlei Sea Arch) + 1–2 נקודות שדקרו. ערב: אוכל בדירה + זוהר.
 
 ### ו' 27.11 — השלמות בפארק → Hilo
 - השלמות בבוקר אם צריך → Rainbow Falls + Boiling Pots → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
 - ערב בדירה (Suisan / KTA poke טייקאווי).
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
-- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
+- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
 - ~14:00 עולים ב-Saddle Road: **Kaumana Caves** (על הדרך) → **Puʻu Huluhulu** (התאקלמות לגובה, מול הפנייה) → **15:30 מפגש לסיור Mauna Kea** (שקיעה בפסגה + כוכבים). חזרה ל-Hilo בחושך – לאט (ערפל, חיות).
 - לינה: Hilo.
 
@@ -55,13 +55,15 @@
 ### ב' 30.11 ערב — נחיתה OGG ~19:45 → Paia/Haiku
 
 ### ג' 1.12 — Road to Hāna
-- 6:30 יציאה ישר ל-Kīpahulu → Pīpīwai Trail לפני ההמונים → Palapala Hoʻomau → Hāmoa → Hāna Farms → **Waiʻānapanapa (~14:00, חובה הזמנה – נפתח 30 יום מראש, לכל המאוחר יום לפני)** → Keʻanae / Wailua lookouts → Paia. חזרה לפני חושך.
+- 6:30 יציאה ישר ל-Kīpahulu → Pīpīwai Trail לפני ההמונים (**באניאן ענק + יער במבוק**) → **Kahanu Garden / Piʻilanihale Heiau** ⚠️ שעות → Palapala Hoʻomau → Hāmoa → Hāna Farms → **Waiʻānapanapa (~14:00, חובה הזמנה – נפתח 30 יום מראש, לכל המאוחר יום לפני)** → Keʻanae Arboretum (**עצי אקליפטוס הקשת**) / Wailua lookouts → Paia. חזרה לפני חושך.
 
 ### ד' 2.12 — Upcountry → Wailea
 - O'o Farm (סיור קפה + בראנץ', ב'–ו') → Grandma's Coffee (Keokea) → **MauiWine – יין אננס** (ʻUlupalakua) → Surfing Goat Dairy → צ'ק-אין Wailea → שקיעה Makena Big Beach.
 
 ### ה' 3.12 — חציית מכתש Haleakalā
-- זריחה (כרטיס: לבדוק עכשיו ב-60 יום; אחרת שחרור יומיים לפני = **1.12 ב-7:00 HST**) → רכב ב-Halemauʻu → טרמפ לפסגה → Sliding Sands → Halemauʻu (~18 ק"מ). מנוחה בריזורט.
+- ❗ עודכן: בלי החצייה של 18 ק"מ. זריחה (כרטיס: לבדוק עכשיו; אחרת **1.12 ב-7:00 HST**) **או שקיעה (בלי הזמנה)**.
+- הליכות בינוניות: Sliding Sands **ירידה חלקית** (~2–3 ק"מ פנימה ובחזרה, לזכור שהעלייה בגובה 3,000 מ' איטית) + Pa Kaʻoao (White Hill) + Leleiwi Overlook + Halemauʻu עד תצפית הרכס (~3 ק"מ הלוך-חזור).
+- בדרך: Kula / Makawao. מנוחה בריזורט.
 
 ### ו' 4.12 — Molokini → Wailuku → Napili
 - 7:00 Molokini + Turtle Town (מ-Māʻalaea, 20 דק' מ-Wailea; להשאיר מזוודות בקבלה).

@@ -70,3 +70,7 @@
 - 🏛️ Piʻilanihale Heiau @ Kahanu Garden (Hāna) – המקדש הגדול בפולינזיה ⚠️ שעות פתיחה
 - ♨️ Pohoiki / Isaac Hale warm ponds (Puna, ~45 דק' מ-Hilo) – בריכה תרמית ליד חוף שחור חדש מ-2018 ⚠️ לאמת סטטוס/ניקיון מים
 - 🎨 סדנת lei / Volcano Art Center workshop ⚠️ לבדוק לוח
+
+## 🌳 עצים מיוחדים ויער גשם (24.11)
+- BI: Kīpukapuaulu (koa עתיקים, HVNP); שרכי עץ ב-Nāhuku; Banyan Drive (Hilo); באניאן ליד Rainbow Falls; HTBG; Akaka (במבוק, ג'ינג'ר)
+- Maui: אקליפטוס הקשת בדרך לחאנה (Keʻanae Arboretum / סביב mile marker 7); Pīpīwai (באניאן + במבוק); Lahaina Banyan ⚠️ (נפגע בשריפה, מתאושש, גישה מוגבלת)
