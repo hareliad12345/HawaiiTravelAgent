@@ -59,3 +59,8 @@
 - 🐋 תחילת עונת הלווייתנים (דצמבר – ראשונים מגיעים)
 - 🎄 תחילת דצמבר: מצעדי אורות וירידי חג מקומיים (Hilo, Waimea, Kona, Makawao) – הכי "מקומי" שיש ⚠️
 - 26.11 Thanksgiving
+
+## תוספות מהתוכנית המקורית (25.10)
+- BI: St. Benedict's Painted Church; Manago Hotel (מאז 1917, צלעות חזיר, סגור ב'); Kaʻū Coffee Mill (9–16); Kaumana Caves (פנס!); Puʻu Huluhulu (התאקלמות לגובה); ʻImiloa; Hawaii Tropical Botanical Garden (~$30–35, כניסה אחרונה 16:00); Onomea Scenic Drive; Honomū; Laupāhoehoe Point; Kohala Mountain Road; Hāwī; פסל קמהמהה ב-Kapaʻau; Kaloko-Honokōhau; Honoliʻi (גולשים מקומיים ליד Hilo); Kona Joe (קלייה עצמית), Hala Tree, Heavenly Hawaiian; Pololū → Honokāne Nui (הייק ארוך)
+- Maui: Hoʻokipa (צבים לפני שקיעה); Hāna Farms; Hāmoa Beach; Palapala Hoʻomau; Keʻanae; Aunty Sandy's; Twin Falls; Kepaniwai Gardens; Maui Coffee Roasters; Grandma's Coffee (Keokea); Kahakuloa + Julia's Banana Bread; Kapalua Coastal Trail; Napili Bay; White Hill; Maui Gold pineapple tour (Haliʻimaile); סיור שוקולד; UH Maui College סדנת בישול (שבת)
+- ⭐ **Wailuku First Friday – 4.12, 18:00–21:00, מהדורת חג** (מוזיקה הוואית חיה, הולה, אומנים מקומיים) – בדיוק "תרבות מקומית לא תיירותית"
