@@ -39,8 +39,9 @@
 - לינה: Hilo.
 
 ### א' 29.11 — הדרך הנופית: Hilo → Hāmākua → Kohala → Kona
-- 7:30 יציאה → Laupāhoehoe Point → Honokaʻa (Tex malasadas) → **Waipiʻo Lookout** → Waimea צהריים → Kohala Mountain Road → Hāwī → **Pololū Valley** (ירידה לחוף, ~1.5 ש') → Kapaʻau → Puʻukoholā → Kona.
-- ערב: **מנטות** (מ-Honokōhau, על הדרך מ-Kohala) **או** שקיעה בקונה. ❓ האם רוצים מנטות?
+- ❗ עודכן לפי "נהיגה ארוכה מתישה": 4 קטעים של עד ~1:15 ש', כל עצירה משמעותית, בלי עצירות של 10 דק'.
+- 8:00 Hilo → (1 ש') **Waipiʻo Lookout** + Tex malasadas ב-Honokaʻa → (40 דק') Waimea צהריים → (40 דק', Kohala Mtn Rd) **Pololū Valley – ירידה לחוף (~1–1.5 ש')** + קפה ב-Hāwī → (1 ש') **שקיעה ב-Hāpuna** (מהרשימה שלך) → (45 דק') Kona.
+- ערב: **מנטות ביציאה מאוחרת ~21:00** (אחרי השקיעה ב-Hāpuna) – ❓ ממתין להחלטה.
 
 ### ב' 30.11 — יום בקונה → טיסה 19:00
 - בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
@@ -54,7 +55,8 @@
 ## Maui
 ### ב' 30.11 ערב — נחיתה OGG ~19:45 → Paia/Haiku
 
-### ג' 1.12 — Road to Hāna
+### ג' 1.12 — Road to Hāna  ❓ פתוח: יום אחד עם מעט עצירות ארוכות / לילה בחאנה / לוותר
+> דרך נוף ארוכה (~2.5–3 ש' לכל כיוון) – מתנגש עם "נהיגה ארוכה מתישה", אבל ביעד: Pīpīwai (הליכה + מפל 122 מ' + באניאן + במבוק), חוף חול שחור ומערות ים, אקליפטוס הקשת.
 - 6:30 יציאה ישר ל-Kīpahulu → Pīpīwai Trail לפני ההמונים (**באניאן ענק + יער במבוק**) → **Kahanu Garden / Piʻilanihale Heiau** ⚠️ שעות → Palapala Hoʻomau → Hāmoa → Hāna Farms → **Waiʻānapanapa (~14:00, חובה הזמנה – נפתח 30 יום מראש, לכל המאוחר יום לפני)** → Keʻanae Arboretum (**עצי אקליפטוס הקשת**) / Wailua lookouts → Paia. חזרה לפני חושך.
 
 ### ד' 2.12 — Upcountry → Wailea
