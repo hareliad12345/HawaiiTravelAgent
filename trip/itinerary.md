@@ -21,7 +21,7 @@
 - שקיעה ~17:45: Kua Bay אם מספיקים, אחרת Aliʻi Drive. KTA לקניות.
 
 ### ד' 25.11 — Kona → Volcano (הדרך הדרומית)
-- Puʻuhonua o Hōnaunau → Two Step → Manago (צהריים) → **Kaʻū Coffee Mill (סיור/טעימות "אם נספיק", פתוח עד 16:00, ~14:00)** → Punaluʻu → Volcano.
+- Puʻuhonua o Hōnaunau → Two Step → Manago (צהריים) → **Kaʻū Coffee Mill – סיור 13:00 (סיורים 11:00/13:00 ב'–ו', מהרשימה שלך)** → Punaluʻu → Volcano.
 - **שקיעה בפארק**: Uēkahuna Bluff (הגבוהה, הכי טובה לשקיעה + זוהר) / Keanakākoʻi / נקודות שהמשתמש דקר. להישאר אחרי חושך לזוהר.
 - 🛒 **לקנות מצרכים ל-25–27 בקונה בבוקר** (ב-Volcano רק חנויות כלבו קטנות, ו-26 = Thanksgiving).
 - 🌋 אפיזודה 57 צפויה 22–26.11 – אם מתחילה, ישר לפארק.
@@ -44,7 +44,7 @@
 
 ### ב' 30.11 — יום בקונה → טיסה 19:00
 - בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
-- צהריים: **חוות קפה** (Kona Joe roasting / Hala Tree / Greenwell) + Holualoa.
+- צהריים: **חוות קפה** – Miranda's Farms (shop + tour 10:30, מהרשימה שלך) או Greenwell Farms + Holualoa.
 - אחה"צ: Kua Bay שחייה → החזרת רכב, KOA עד 17:30.
 
 ### אופציה A (אם סיימנו את Hilo ב-27–28)
