@@ -1,6 +1,7 @@
 # תוכנית יומית — 24.11 (ג') עד 6.12 (א')
-> גרסה 2 (24.11): מותאמת להזמנות בפועל. טיסה ל-Maui ב-30.11 ב-19:00 (לא 1.12 כמו בתוכנית המקורית) ← מנטות ומאונה קאה עוברים ל-28/29.
-> אורך: Eli (36) + אמא (59), כושר טוב, כל פעילויות המים, השכמות בשמחה. רכב: SUV (לא 4x4).
+> גרסה 3 (24.11): לפי התוכנית שהמשתמש כתב בצ'אט. **מה שהמשתמש כותב דורס את השמור.**
+> מטיילים: Eli (36) + אמא (59), כושר טוב, כל פעילויות המים, השכמות בשמחה. רכב: SUV (לא 4x4) בשני האיים, נוסעים עצמאית.
+> ארוחות ערב 25–27.11: בדירה (בישול/טייקאווי).
 
 ## לינה
 | לילה | איפה | סטטוס |
@@ -8,44 +9,47 @@
 | 24.11 | Kailua-Kona | ✅ |
 | 25–26.11 | Volcano Village | ✅ |
 | 27.11 | Hilo | ✅ |
-| 28.11 | **Kona / Keauhou / Holualoa** (מומלץ: אותו מקום כמו 29) | ❌ להזמין |
+| 28.11 | **Hilo** (אופציה B – מומלצת) / Kona (אופציה A) | ❌ להחליט ולהזמין |
 | 29.11 | Kona | ✅ |
 | 30.11 | **Paia / Haiku** (או Kahului/Wailuku לחיסכון) | ❌ להזמין |
 | 1.12 | **Paia / Haiku** (אותו מקום) | ❌ להזמין |
-| 2–3.12 | Marriott Wailea Beach Resort | ✅ (לפי המשתמש – לוודא) |
+| 2–3.12 | Marriott Wailea Beach Resort | ✅ |
 | 4–5.12 | **Napili / Kahana** (חלופה: Kihei) | ❌ להזמין |
 
 ## Big Island
 ### ג' 24.11 — נחיתה 16:30 ב-KOA
-- שקיעה 17:45. אם הרכב ביד עד ~17:15 → Kua Bay (10 דק' מהשדה). אחרת: שקיעה על Aliʻi Drive.
-- KTA Super Stores: poke, פירות, אוכל לבוקר.
-- 🌋 לעקוב בערב אחרי USGS (חלון אפיזודה 57: 22–26.11).
+- שקיעה ~17:45: Kua Bay אם מספיקים, אחרת Aliʻi Drive. KTA לקניות.
 
-### ד' 25.11 — דרום Kona → Volcano
-- 7:45 יציאה → Puʻuhonua o Hōnaunau (8:30) → Two Step snorkel (10:00) → (Painted Church) → Manago Hotel צהריים → Kaʻū Coffee Mill (~14:00) → Punaluʻu צבים + Bake Shop → Volcano ~16:00.
-- ערב: Uēkahuna / Keanakākoʻi לזוהר. **אם אפיזודה 57 מתחילה – לנסוע ישר לפארק, לוותר על עצירות.**
+### ד' 25.11 — Kona → Volcano (הדרך הדרומית)
+- Puʻuhonua o Hōnaunau → Two Step → Manago (צהריים) → **Kaʻū Coffee Mill (סיור/טעימות "אם נספיק", פתוח עד 16:00, ~14:00)** → Punaluʻu → Volcano.
+- **שקיעה בפארק**: Uēkahuna Bluff (הגבוהה, הכי טובה לשקיעה + זוהר) / Keanakākoʻi / נקודות שהמשתמש דקר. להישאר אחרי חושך לזוהר.
+- 🛒 **לקנות מצרכים ל-25–27 בקונה בבוקר** (ב-Volcano רק חנויות כלבו קטנות, ו-26 = Thanksgiving).
+- 🌋 אפיזודה 57 צפויה 22–26.11 – אם מתחילה, ישר לפארק.
 
-### ה' 26.11 — Thanksgiving · יום הר הגעש
-- 7:30 Kīlauea Iki → Nāhuku → Devastation → Chain of Craters (Mauna Ulu, Puʻu Loa petroglyphs, Hōlei Sea Arch).
-- ערב: ארוחת חג (Volcano House / Kilauea Lodge – **להזמין**) + זוהר.
+### ה' 26.11 — Thanksgiving · יום המכתש
+- Kīlauea Iki (בוקר מוקדם) → Nāhuku lava tube → Devastation Trail → Chain of Craters (Mauna Ulu, Puʻu Loa, Hōlei Sea Arch) + 1–2 נקודות שדקרו. ערב: אוכל בדירה + זוהר.
 
-### ו' 27.11 — Volcano → Hilo
-- שחר: עוד ביקור בזוהר אם יש פעילות. 
-- Hilo: Rainbow Falls + Boiling Pots, Kaumana Caves, Café 100 / Suisan poke, **Hawaii Tropical Botanical Garden + Onomea Scenic Drive** (הועבר מ-28 כדי לשחרר את שבת), Liliʻuokalani Gardens, Bayfront בערב.
-- תוכנית B לגשם: ʻImiloa Astronomy Center.
+### ו' 27.11 — השלמות בפארק → Hilo
+- השלמות בבוקר אם צריך → Rainbow Falls + Boiling Pots → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
+- ערב בדירה (Suisan / KTA poke טייקאווי).
 
-### ש' 28.11 — Hilo → Hāmākua → Kona · 🐠 מנטות
-- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → Akaka Falls → Honomū → Honokaʻa (Tex Drive-In) → Waipiʻo Lookout → Waimea צהריים → Kona עד ~15:30.
-- ~17:30 **Manta ray night snorkel** (Keauhou / Honokōhau) – ❌ להזמין.
+### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
+- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
+- ~14:00 עולים ב-Saddle Road: **Kaumana Caves** (על הדרך) → **Puʻu Huluhulu** (התאקלמות לגובה, מול הפנייה) → **15:30 מפגש לסיור Mauna Kea** (שקיעה בפסגה + כוכבים). חזרה ל-Hilo בחושך – לאט (ערפל, חיות).
+- לינה: Hilo.
 
-### א' 29.11 — Kona · 🌌 Mauna Kea (הסיור המוזמן)
-- בוקר: Kealakekua Bay snorkel (סיור סירה/קיאק) **או** חוות קפה (Kona Joe roasting / Hala Tree / Greenwell).
-- צהריים: איסוף לסיור Mauna Kea (שקיעה בפסגה + כוכבים), חזרה ~22:00.
-- ❗ לבטל את סיור ה-28.
+### א' 29.11 — הדרך הנופית: Hilo → Hāmākua → Kohala → Kona
+- 7:30 יציאה → Laupāhoehoe Point → Honokaʻa (Tex malasadas) → **Waipiʻo Lookout** → Waimea צהריים → Kohala Mountain Road → Hāwī → **Pololū Valley** (ירידה לחוף, ~1.5 ש') → Kapaʻau → Puʻukoholā → Kona.
+- ערב: **מנטות** (מ-Honokōhau, על הדרך מ-Kohala) **או** שקיעה בקונה. ❓ האם רוצים מנטות?
 
-### ב' 30.11 — Kohala → טיסה 19:00
-- Kohala Mountain Road → Hāwī → **Pololū Valley** (ירידה לחוף) → Kapaʻau (פסל קמהמהה) → Puʻukoholā Heiau → שחייה Hāpuna / Kua Bay → החזרת רכב, KOA עד 17:30.
-- (חלופה: חוות קפה אם לא נעשתה ב-29.)
+### ב' 30.11 — יום בקונה → טיסה 19:00
+- בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
+- צהריים: **חוות קפה** (Kona Joe roasting / Hala Tree / Greenwell) + Holualoa.
+- אחה"צ: Kua Bay שחייה → החזרת רכב, KOA עד 17:30.
+
+### אופציה A (אם סיימנו את Hilo ב-27–28)
+- 28: שוק → הדרך הנופית לקונה, לינה Kona. 29: יום Kona + Mauna Kea מ-Kona (הסיור של ה-29). 30: Kona.
+- חסרונות: 28 עמוס (שוק + 4.5 ש' נהיגה), אין חלון סביר למנטות, צריך להזמין Kona ל-28.
 
 ## Maui
 ### ב' 30.11 ערב — נחיתה OGG ~19:45 → Paia/Haiku
