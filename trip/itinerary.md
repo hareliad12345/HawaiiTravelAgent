@@ -86,5 +86,5 @@
 - 7:00 Waiheʻe Ridge (~45 דק' מ-Napili דרך Kahekili; או בכיוון ההפוך) → Kahakuloa + Julia's banana bread → Nakalele Blowhole → Honolua Bay lookout (גולשי חורף) → Kapalua Coastal Trail → Napili Bay שחייה/צבים → שקיעה.
 - ערב: לואו (Old Lahaina Luau – אם רוצים; כנראה מלא) **או** ערב חופשי.
 
-### א' 6.12 — יום אחרון (טיסה ~20:00 – לאמת)
+### א' 6.12 — יום אחרון (טיסה 20:00 ✅)
 - בוקר: Black Rock / Kapalua Bay snorkel או שייט לווייתנים בוקר → פינוי → Paia/Hoʻokipa (צבים לפני שקיעה) → OGG עד 17:30.
