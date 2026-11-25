@@ -39,11 +39,11 @@
 - ערב: זוהר מ-Keanakākoʻi / Kīlauea Overlook. אוכל בדירה.
 
 ### ו' 27.11 — השלמות בפארק → Hilo
-- בוקר: Volcano Art Center / Volcano Winery בכפר (אופציונלי) או יציאה מוקדמת ל-Hilo — ⚠️ Kīpukapuaulu Trail נסגר אחרי Hurricane Nolo (ספט' 2026), לבדוק במרכז המבקרים → Rainbow Falls + Boiling Pots → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
+- בוקר: Volcano Art Center / Volcano Winery בכפר (אופציונלי) או יציאה מוקדמת ל-Hilo — ⚠️ Kīpukapuaulu Trail נסגר אחרי Hurricane Nolo (ספט' 2026), לבדוק במרכז המבקרים → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
 - ערב בדירה (Suisan / KTA poke טייקאווי).
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
-- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
+- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** (שמש בוקר = הכי סיכוי לקשת; 5 דק' מהמרכז) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
 - ~14:00 עולים ב-Saddle Road: **Kaumana Caves** (על הדרך) → **Puʻu Huluhulu** (התאקלמות לגובה, מול הפנייה) → **15:30 מפגש לסיור Mauna Kea** (שקיעה בפסגה + כוכבים). חזרה ל-Hilo בחושך – לאט (ערפל, חיות).
 - לינה: Hilo.
 
