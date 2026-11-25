@@ -25,6 +25,7 @@
 - 9:30–10:45 Puʻuhonua o Hōnaunau – ⬇️ אופציונלי (המשתמש: אתרים עתיקים – לא). חלופה: עוד זמן ב-Two Step / Greenwell Farms
 - (אופציונלי, 15 דק') St. Benedict's Painted Church / חוות קפה בקונה (Greenwell / Miranda's) – רק אם לא מוותרים על משהו אחר; Miranda's מתוכננת ל-30.11
 - 10:45 נסיעה (~1:15) → ~~Punaluʻu Bake Shop~~ (**סגור** מאז Hurricane Lala, אוג' 2026, בלי תאריך פתיחה) → **Punaluʻu black sand + צבים** ⚠️ שירותי המחוז הופסקו מ-29.8 (סכסוך חכירה) – לבדוק ביקורות אחרונות
+- ☕ חלופה/תוספת: **Miranda's Farms** (על כביש 11 באזור Nāʻālehu, סיור 10:30 לפי הרשימה) – אם פתוח: לקצר Two Step ולצאת ב-9:00
 - ⚠️ אזור Kaʻū/Pāhala נפגע קשה מ-Lala – לבדוק ב-Google Maps ש-Kaʻū Coffee Mill פתוח לפני הנסיעה
 - אוכל: לקנות צהריים בקונה לפני היציאה
 - **13:00 Kaʻū Coffee Mill – סיור** (ב'–ו'; טעימות קפה + מקדמיה) 
@@ -56,7 +57,7 @@
 
 ### ב' 30.11 — יום בקונה → טיסה 19:00
 - בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
-- צהריים: **חוות קפה** – Miranda's Farms (shop + tour 10:30, מהרשימה שלך) או Greenwell Farms + Holualoa.
+- צהריים: **חוות קפה** – Greenwell Farms + Holualoa (Miranda's נמצאת ב-Kaʻū, לא בקונה).
 - אחה"צ: Kua Bay שחייה → החזרת רכב, KOA עד 17:30.
 
 ### אופציה A (אם סיימנו את Hilo ב-27–28)

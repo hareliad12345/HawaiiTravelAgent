@@ -21,7 +21,7 @@
 
 ## רשימת Hawaii – הערות המשתמש
 - Kaʻū Coffee Mill: סיורים 11:00, 13:00, ב'–ו' → 25.11 (ד') ב-13:00 ✔
-- Miranda's Farms Cafe (Captain Cook): shop + tour 10:30 → מתאים ל-30.11
+- Miranda's Farms Cafe – **ב-Kaʻū (93-7136 Hawaiʻi Belt Rd, אזור Nāʻālehu), לא Captain Cook**; shop + tour 10:30; שעות לא מאומתות (Mo–Sa 8–17?) ⚠️ אחרי Lala
 - Greenwell Farms – סיור קפה
 - Holei Sea Arch – "לא must"; Kīlauea Iki "4 ק"מ, 2–2.5 ש'"; Akaka "30–45 דק'"
 - Hapuna – שקיעה; Honoliʻi – גולשים; Botanical World Adventures (ליד Akaka, תצפית Umauma Falls)
