@@ -91,3 +91,8 @@
 - Crater Rim Trail בין Kīlauea Iki Overlook ל-Nāhuku – קטע קצר וירוק
 - Lava Tree State Monument (Puna, ~40 דק' מ-Volcano, עיקוף ~30 דק' בדרך ל-Hilo ב-27) – לולאה קצרה ביער גשם עם "עצי לבה" ⚠️ לבדוק פתוח ב-Google Reviews
 - Hilo: HTBG, Akaka, Onomea – הכי שופעים; Kalopa State Rec Area (Hāmākua, בדרך ב-29) – יער ילידי
+
+## ⭐ דירוג המסלול הצפוני Hilo→Kona (29.11)
+כנסיעה עצמה: 3 · כיום שלם: 4 (בזכות Pololū + Waipiʻo + Hāpuna)
+5: Pololū Valley (תצפית + ירידה לחוף) · 4: Waipiʻo Lookout, Hāpuna sunset, Kohala Mountain Rd (הקטע הנופי היחיד שעומד בפני עצמו) · 3: Hwy 19 Hāmākua, Honokaʻa+Tex, Hāwī, Puʻukoholā · 2: Laupāhoehoe, Waimea (רק צהריים), פסל קמהמהה, Kalopa
+חלופה: Saddle Rd ישיר (1.5 ש') – מוותרים על Pololū/Waipiʻo; לנסוע אליהם מקונה = ~2.5 ש' הלוך-חזור → המסלול הצפוני יעיל יותר
