@@ -22,7 +22,7 @@
 
 ### ד' 25.11 — Kona → Volcano (הדרך הדרומית) · גרסה מפורטת
 - 7:30 יציאה (35 דק') → **7:45–9:30 Two Step snorkel** (צבים, לפעמים דולפינים; הים הכי רגוע ושקט בבוקר; חניה: כמה מקומות בצד הכביש או מגרש פרטי ב-$5 מזומן)
-- 9:30–10:45 **Puʻuhonua o Hōnaunau** (צמוד; $20 לרכב או Tri-Park)
+- 9:30–10:45 Puʻuhonua o Hōnaunau – ⬇️ אופציונלי (המשתמש: אתרים עתיקים – לא). חלופה: עוד זמן ב-Two Step / Greenwell Farms
 - (אופציונלי, 15 דק') St. Benedict's Painted Church / חוות קפה בקונה (Greenwell / Miranda's) – רק אם לא מוותרים על משהו אחר; Miranda's מתוכננת ל-30.11
 - 10:45 נסיעה (~1:15) → Punaluʻu Bake Shop (Nāʻālehu) מלסדות/צהריים קל → **Punaluʻu black sand + צבים** (~30–40 דק')
 - **13:00 Kaʻū Coffee Mill – סיור** (ב'–ו'; טעימות קפה + מקדמיה) 
@@ -64,12 +64,13 @@
 ## Maui
 ### ב' 30.11 ערב — נחיתה OGG ~19:45 → Paia/Haiku
 
-### ג' 1.12 — Road to Hāna  ❓ פתוח: יום אחד עם מעט עצירות ארוכות / לילה בחאנה / לוותר
+### ג' 1.12 — Road to Hāna  ✅ יום אחד (אופציה A), יום חול = פחות עומס
 > דרך נוף ארוכה (~2.5–3 ש' לכל כיוון) – מתנגש עם "נהיגה ארוכה מתישה", אבל ביעד: Pīpīwai (הליכה + מפל 122 מ' + באניאן + במבוק), חוף חול שחור ומערות ים, אקליפטוס הקשת.
 - 6:30 יציאה ישר ל-Kīpahulu → Pīpīwai Trail לפני ההמונים (**באניאן ענק + יער במבוק**) → **Kahanu Garden / Piʻilanihale Heiau** ⚠️ שעות → Palapala Hoʻomau → Hāmoa → Hāna Farms → **Waiʻānapanapa (~14:00, חובה הזמנה – נפתח 30 יום מראש, לכל המאוחר יום לפני)** → Keʻanae Arboretum (**עצי אקליפטוס הקשת**) / Wailua lookouts → Paia. חזרה לפני חושך.
 
 ### ד' 2.12 — Upcountry → Wailea
-- O'o Farm (סיור קפה + בראנץ', ב'–ו') → Grandma's Coffee (Keokea) → **MauiWine – יין אננס** (ʻUlupalakua) → Surfing Goat Dairy → צ'ק-אין Wailea → שקיעה Makena Big Beach.
+- 🚁 אופציה: **הליקופטר West Maui & Molokaʻi** בבוקר מ-Kahului (15 דק' מ-Paia); גיבוי: 6.12 בבוקר → Makawao →
+- O'o Farm (אופציונלי) → Grandma's Coffee (Keokea) → **MauiWine – יין אננס** (ʻUlupalakua) → Surfing Goat Dairy → צ'ק-אין Wailea → שקיעה Makena Big Beach.
 
 ### ה' 3.12 — חציית מכתש Haleakalā
 - ❗ עודכן: בלי החצייה של 18 ק"מ. זריחה (כרטיס: לבדוק עכשיו; אחרת **1.12 ב-7:00 HST**) **או שקיעה (בלי הזמנה)**.
