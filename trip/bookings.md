@@ -38,3 +38,6 @@
 - סגירות בפארק: https://www.nps.gov/havo/planyourvisit/conditions.htm
 - Haleakalā: https://www.nps.gov/hale/planyourvisit/conditions.htm
 - ים/גלים: סוולים צפוניים בחורף → זהירות בחופים צפוניים.
+
+## 📅 נקודות החלטה לפי תחזית
+- **29.11 בערב**: לבדוק תחזית Maui (NWS Kahului/Wailuku) → לשבץ Waiheʻe Ridge ביום הכי יבש: 1.12 (ואז Hāna עובר ל-2.12 ומסתיים ב-Wailea) / 5.12 / 6.12. ⚠️ להזמין Waiʻānapanapa ל-1.12 **או** 2.12 בהתאם, עד 30.11.
