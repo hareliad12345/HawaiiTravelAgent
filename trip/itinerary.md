@@ -27,19 +27,19 @@
 - 10:45 נסיעה (~1:15) → Punaluʻu Bake Shop (Nāʻālehu) מלסדות/צהריים קל → **Punaluʻu black sand + צבים** (~30–40 דק')
 - **13:00 Kaʻū Coffee Mill – סיור** (ב'–ו'; טעימות קפה + מקדמיה) 
 - ~14:15 נסיעה (40 דק') → Kīlauea Visitor Center (עדכון לבה וסגירות) → צ'ק-אין Volcano
-- ~15:00 **Steam Vents (Wahinekapu) + Sulphur Banks (Haʻakulamanu)** – לולאת טיילת קצרה, אדים וגופרית
+- ~15:00 **Nāhuku lava tube** (30 דק') + Devastation Trail (20 דק') — (Steam Vents / Sulphur Banks סגורים לפי Google Reviews; Sulphur Banks Bridge סגור מאז Hurricane Nolo)
 - **17:15 שקיעה ב-Uēkahuna Bluff → להישאר לזוהר אחרי חושך** (+ Kīlauea Overlook / Keanakākoʻi מהרשימה)
 - ערב: בדירה. 
 - צהריים: Punaluʻu Bake Shop / פיקניק מ-KTA, או Manago (Captain Cook) אם מתחשק – לבחור מנה בלי חזיר.
 - ציוד: שנורקל (לקנות הערב ב-Target/Walmart Kona אם אין), קרם הגנה מינרלי, מגבות, שכבה חמה לערב (1,200 מ').
 
 ### ה' 26.11 — Thanksgiving · יום המכתש
-- 7:30 **Kīlauea Iki** (2.5–3 ש') + **Nāhuku** (צמוד לשביל) → צהריים
+- 7:30 **Kīlauea Iki** (2.5–3 ש') → צהריים
 - אחה"צ **Chain of Craters Road** (~45 דק' לכל כיוון, נוף של זרמי לבה עד הים): Pauahi Crater → **Mauna Ulu / Puʻu Huluhulu** (1.5–2 ש') → **Puʻu Loa petroglyphs** (~45 דק') → Hōlei Sea Arch ("לא must")
 - ערב: זוהר מ-Keanakākoʻi / Kīlauea Overlook. אוכל בדירה.
 
 ### ו' 27.11 — השלמות בפארק → Hilo
-- בוקר ביציאה מהפארק: **Kīpukapuaulu** (יער ילידי, ציפורים, 1.9 ק"מ) + Devastation Trail אם לא נעשו → Rainbow Falls + Boiling Pots → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
+- בוקר: Volcano Art Center / Volcano Winery בכפר (אופציונלי) או יציאה מוקדמת ל-Hilo — ⚠️ Kīpukapuaulu Trail נסגר אחרי Hurricane Nolo (ספט' 2026), לבדוק במרכז המבקרים → Rainbow Falls + Boiling Pots → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
 - ערב בדירה (Suisan / KTA poke טייקאווי).
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
