@@ -79,3 +79,9 @@
 - Kona Inn Restaurant – על המים, היסטורי, דג טרי + עוף, הכי קרוב
 - Kanaka Kava (75-5803 Aliʻi Dr) – אוכל הוואי אמיתי; רוב המנות חזיר/פירות ים, אבל יש ahi poke ועוד – לבחור מנה
 - Fish Hopper – טוב ויקר; Quinn's Almost by the Sea – קז'ואל, דג
+
+## ⭐ דירוג Hawaiʻi Volcanoes NP (1–5, 25.11)
+5: Kīlauea Iki · Uēkahuna Bluff (שקיעה+זוהר) · צפייה במזרקת לבה אם יש אפיזודה
+4: Keanakākoʻi (הכי קרוב לפתחים) · Chain of Craters Road כמכלול · Mauna Ulu/Puʻu Huluhulu
+3: Nāhuku · Hōlei Sea Arch + קצה הכביש · Kealakomo Overlook · Puʻu Loa petroglyphs · Kīlauea Overlook · Sulphur Banks (סגור) · Kīpukapuaulu (סגור?)
+2: Devastation Trail · Steam Vents (סגור) · Pauahi Crater · מכתשי Lua Manu / Puhimau
