@@ -21,3 +21,4 @@
 - שינוי בתוכנית → `trip/itinerary.md`. רעיון חדש → `trip/backlog.md`. הזמנה → `trip/bookings.md`.
 - הקשר שהמשתמש מעלה (צ'אטים, טיולים קודמים, ייצוא Google Maps) → `context/` + תקציר תובנות ל-profile.
 - בסוף כל שינוי: commit + push לענף `claude/hawaii-trip-planning-vqcak5`.
+- המשתמש מצרף לפעמים המלצות מ-AI אחר להקשר בלבד – לא להיצמד אליהן, לבדוק באופן עצמאי.
