@@ -24,7 +24,9 @@
 - 7:30 יציאה (35 דק') → **7:45–9:30 Two Step snorkel** (צבים, לפעמים דולפינים; הים הכי רגוע ושקט בבוקר; חניה: כמה מקומות בצד הכביש או מגרש פרטי ב-$5 מזומן)
 - 9:30–10:45 Puʻuhonua o Hōnaunau – ⬇️ אופציונלי (המשתמש: אתרים עתיקים – לא). חלופה: עוד זמן ב-Two Step / Greenwell Farms
 - (אופציונלי, 15 דק') St. Benedict's Painted Church / חוות קפה בקונה (Greenwell / Miranda's) – רק אם לא מוותרים על משהו אחר; Miranda's מתוכננת ל-30.11
-- 10:45 נסיעה (~1:15) → Punaluʻu Bake Shop (Nāʻālehu) מלסדות/צהריים קל → **Punaluʻu black sand + צבים** (~30–40 דק')
+- 10:45 נסיעה (~1:15) → ~~Punaluʻu Bake Shop~~ (**סגור** מאז Hurricane Lala, אוג' 2026, בלי תאריך פתיחה) → **Punaluʻu black sand + צבים** ⚠️ שירותי המחוז הופסקו מ-29.8 (סכסוך חכירה) – לבדוק ביקורות אחרונות
+- ⚠️ אזור Kaʻū/Pāhala נפגע קשה מ-Lala – לבדוק ב-Google Maps ש-Kaʻū Coffee Mill פתוח לפני הנסיעה
+- אוכל: לקנות צהריים בקונה לפני היציאה
 - **13:00 Kaʻū Coffee Mill – סיור** (ב'–ו'; טעימות קפה + מקדמיה) 
 - ~14:15 נסיעה (40 דק') → Kīlauea Visitor Center (עדכון לבה וסגירות) → צ'ק-אין Volcano
 - ~15:00 **Nāhuku lava tube** (30 דק') + Devastation Trail (20 דק') — (Steam Vents / Sulphur Banks סגורים לפי Google Reviews; Sulphur Banks Bridge סגור מאז Hurricane Nolo)
