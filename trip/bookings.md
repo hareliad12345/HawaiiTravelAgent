@@ -30,7 +30,7 @@
 | 10 | ʻĪao Valley – 4.12 | לוודא שפתוח | ❌ |
 | 11 | Kealakekua snorkel + חוות קפה – 30.11 | | ❌ |
 | 12 | לואו 5.12 (אופציונלי) | | ❓ |
-| 13 | Tri-Park pass $55 (Volcanoes + Haleakalā + Puʻuhonua) – אונליין, חוסך $25 | | ❌ |
+| 13 | כניסות NPS: **לשלם לכל פארק** – Puʻuhonua $20 (7 ימים), Volcanoes $30 (7 ימים), Haleakalā $30 (3 ימים, שני המחוזות) = $80. Tri-Park ($55) כנראה לאזרחי/תושבי ארה"ב בלבד; ATB לתושבי חוץ $250 – לא משתלם | | ✅ החלטה |
 
 ## לבדוק כל בוקר
 - Kīlauea: https://www.usgs.gov/volcanoes/kilauea/volcano-updates (+ מצלמות לייב). 24.11: רמת WATCH, חלון אפיזודה 57: 22–26.11.
