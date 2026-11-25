@@ -85,3 +85,9 @@
 4: Keanakākoʻi (הכי קרוב לפתחים) · Chain of Craters Road כמכלול · Mauna Ulu/Puʻu Huluhulu
 3: Nāhuku · Hōlei Sea Arch + קצה הכביש · Kealakomo Overlook · Puʻu Loa petroglyphs · Kīlauea Overlook · Sulphur Banks (סגור) · Kīpukapuaulu (סגור?)
 2: Devastation Trail · Steam Vents (סגור) · Pauahi Crater · מכתשי Lua Manu / Puhimau
+
+## 🌿 הליכה ביער גשם ליד Volcano (25.11)
+- שפת Kīlauea Iki – החלק הראשון של הלולאה הוא יער גשם צפוף (ʻōhiʻa + שרכי עץ) – כבר בתוכנית 26.11
+- Crater Rim Trail בין Kīlauea Iki Overlook ל-Nāhuku – קטע קצר וירוק
+- Lava Tree State Monument (Puna, ~40 דק' מ-Volcano, עיקוף ~30 דק' בדרך ל-Hilo ב-27) – לולאה קצרה ביער גשם עם "עצי לבה" ⚠️ לבדוק פתוח ב-Google Reviews
+- Hilo: HTBG, Akaka, Onomea – הכי שופעים; Kalopa State Rec Area (Hāmākua, בדרך ב-29) – יער ילידי
