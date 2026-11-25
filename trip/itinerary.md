@@ -29,7 +29,7 @@
 - ~14:15 נסיעה (40 דק') → Kīlauea Visitor Center (עדכון לבה וסגירות) → צ'ק-אין Volcano
 - **17:15 שקיעה ב-Uēkahuna Bluff → להישאר לזוהר אחרי חושך** (+ Kīlauea Overlook / Keanakākoʻi מהרשימה)
 - ערב: בדירה. 
-- כשרות: צהריים – פיקניק (poke ahi / כריכים מ-KTA בבוקר) או Bake Shop. Manago ידועה בצלעות חזיר – לא הולכים.
+- צהריים: Punaluʻu Bake Shop / פיקניק מ-KTA, או Manago (Captain Cook) אם מתחשק – לבחור מנה בלי חזיר.
 - ציוד: שנורקל (לקנות הערב ב-Target/Walmart Kona אם אין), קרם הגנה מינרלי, מגבות, שכבה חמה לערב (1,200 מ').
 
 ### ה' 26.11 — Thanksgiving · יום המכתש

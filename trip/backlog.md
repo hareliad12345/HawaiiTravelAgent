@@ -77,5 +77,5 @@
 
 ## 🍽️ Kailua-Kona – אוכל ליד Holiday Inn Express (Sarona Rd, מרכז, בלוק מ-Aliʻi Dr)
 - Kona Inn Restaurant – על המים, היסטורי, דג טרי + עוף, הכי קרוב
-- ~~Kanaka Kava~~ – רוב התפריט חזיר/פירות ים (kalua pork, laulau, squid luau) → לא מתאים לכשרות. אולי רק ahi poke
+- Kanaka Kava (75-5803 Aliʻi Dr) – אוכל הוואי אמיתי; רוב המנות חזיר/פירות ים, אבל יש ahi poke ועוד – לבחור מנה
 - Fish Hopper – טוב ויקר; Quinn's Almost by the Sea – קז'ואל, דג
