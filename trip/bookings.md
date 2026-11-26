@@ -34,7 +34,7 @@
 | 13 | כניסות NPS: **לשלם לכל פארק** – Puʻuhonua $20 (7 ימים), Volcanoes $30 (7 ימים), Haleakalā $30 (3 ימים, שני המחוזות) = $80. Tri-Park ($55) כנראה לאזרחי/תושבי ארה"ב בלבד; ATB לתושבי חוץ $250 – לא משתלם | | ✅ החלטה |
 
 ## לבדוק כל בוקר
-- Kīlauea: https://www.usgs.gov/volcanoes/kilauea/volcano-updates (+ מצלמות לייב). 24.11: רמת WATCH, חלון אפיזודה 57: 22–26.11.
+- Kīlauea: https://www.usgs.gov/volcanoes/kilauea/volcano-updates (+ מצלמות לייב). אפיזודה 57 הייתה ב-23.11 (00:15–06:00, לפני הנחיתה). הבאה: תחזית 3–16.12 (אחרי שעוזבים את BI). 26.11: זוהר מתון ועקבי בפתח הדרום-מערבי.
 - סגירות בפארק: https://www.nps.gov/havo/planyourvisit/conditions.htm
 - Haleakalā: https://www.nps.gov/hale/planyourvisit/conditions.htm
 - ים/גלים: סוולים צפוניים בחורף → זהירות בחופים צפוניים.
