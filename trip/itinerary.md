@@ -22,7 +22,7 @@
 ### ו' 27.11 — Volcano → Hilo
 - ~9:00 → (25 דק') **Hilo Coffee Mill** (Mountain View, כביש 11) – שעות/סיורים לא עקביים, לבדוק בגוגל.
 - צהריים ב-Hilo (Café 100 / poke מ-KTA או Suisan).
-- ~13:00 **Hawaii Tropical Botanical Garden** + Onomea (1.5–2 ש', כניסה אחרונה 16:00, ~$30–35) → ~15:30 **Akaka Falls** (עד 17:00, אשראי בלבד).
+- עודכן לפי המשתמש: **Akaka Falls קודם** (חניה לפני עומס, לפני עננות) → **Hawaii Tropical Botanical Garden** + Onomea (כניסה אחרונה 16:00).
 - OK Farms – אין מקום.
 - 🌧️ B: ʻImiloa Astronomy Center.
 
