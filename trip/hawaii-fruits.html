@@ -1,0 +1,161 @@
+<title>מגדיר פירות הוואי</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@500;700&family=Assistant:wght@400;600;700&display=swap">
+<style>
+/* Layout: one column of field-guide entries; illustration plate beside text, stacking on phones */
+:root{
+  --bg:#f3f5ef; --surface:#ffffff; --ink:#1d2a22; --muted:#5b6a60; --line:#dfe4da;
+  --leaf:#1f6b4a; --mango:#e0781f; --plate:#eef2e6;
+  --now-bg:#e3f2e8; --now-fg:#17603f; --maybe-bg:#fbf0dc; --maybe-fg:#8a5a10; --no-bg:#eef0ee; --no-fg:#6b746e;
+  --display:"Rubik","Assistant",system-ui,sans-serif; --body:"Assistant",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#111814; --surface:#18221c; --ink:#e7eee8; --muted:#9fb0a5; --line:#2a3830;
+  --leaf:#6cc79c; --mango:#f29a4a; --plate:#203028;
+  --now-bg:#1d3a2b; --now-fg:#8fe0b6; --maybe-bg:#3a2e17; --maybe-fg:#f2c77a; --no-bg:#242b27; --no-fg:#9aa59e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#111814; --surface:#18221c; --ink:#e7eee8; --muted:#9fb0a5; --line:#2a3830;
+  --leaf:#6cc79c; --mango:#f29a4a; --plate:#203028;
+  --now-bg:#1d3a2b; --now-fg:#8fe0b6; --maybe-bg:#3a2e17; --maybe-fg:#f2c77a; --no-bg:#242b27; --no-fg:#9aa59e; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}
+.wrap{direction:rtl;max-width:860px;margin:0 auto;padding-block:28px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:22px}
+header h1{font-family:var(--display);font-weight:700;font-size:clamp(1.8rem,5vw,2.5rem);margin:0;color:var(--leaf);text-wrap:balance}
+header p{margin:.3rem 0 0;color:var(--muted);max-width:65ch}
+.note{font-size:.9rem;color:var(--muted);border-inline-start:3px solid var(--mango);padding-inline-start:10px}
+.filters{display:flex;flex-wrap:wrap;gap:8px}
+.filters button{font:600 .95rem var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 14px;border-radius:999px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--leaf);border-color:var(--leaf);color:var(--bg)}
+.filters button:focus-visible{outline:2px solid var(--mango);outline-offset:2px}
+.list{display:flex;flex-direction:column;gap:14px}
+.fruit{display:grid;grid-template-columns:120px 1fr;gap:16px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+.plate{background:var(--plate);border-radius:10px;display:grid;place-items:center;aspect-ratio:1;max-width:100%}
+.plate svg{width:86%;height:auto}
+.body{min-width:0;display:flex;flex-direction:column;gap:8px}
+.name{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.name h2{font-family:var(--display);font-weight:700;font-size:1.3rem;margin:0}
+.name span{color:var(--muted);font-size:.95rem;direction:ltr}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:.8rem;font-weight:600;padding:2px 9px;border-radius:999px;background:var(--plate);color:var(--muted)}
+.tag.now{background:var(--now-bg);color:var(--now-fg)}.tag.maybe{background:var(--maybe-bg);color:var(--maybe-fg)}.tag.no{background:var(--no-bg);color:var(--no-fg)}
+.body p{margin:0;max-width:65ch}
+.body b{color:var(--leaf)}
+@media (max-width:520px){.fruit{grid-template-columns:84px 1fr;gap:12px;padding:12px}.name h2{font-size:1.15rem}}
+@media (prefers-reduced-motion:no-preference){.fruit{transition:transform .15s}.fruit:hover{transform:translateY(-1px)}}
+</style>
+
+<div class="wrap">
+<header>
+  <h1>מגדיר פירות הוואי</h1>
+  <p>19 פירות שתפגשו בשווקים, בדוכנים ובחוות של האי הגדול ומאווי: מה הטעם, מה מיוחד, ואיך הם גדלים.</p>
+</header>
+<p class="note">העונות כאן הן הערכה כללית להוואי ומשתנות לפי אזור, גובה ומזג אוויר. התגית הצבעונית מתייחסת לסוף נובמבר–תחילת דצמבר.</p>
+<div class="filters" role="group" aria-label="סינון">
+  <button id="f-all" type="button" aria-pressed="true" data-f="all">כל הפירות</button>
+  <button id="f-now" type="button" aria-pressed="false" data-f="now">סביר שתמצאו עכשיו</button>
+  <button id="f-canoe" type="button" aria-pressed="false" data-f="canoe">צמחי קאנו פולינזיים</button>
+</div>
+<div class="list" id="list"></div>
+</div>
+
+<script>
+const spikes=(cx,cy,r,n,len,col)=>{let s='';for(let i=0;i<n;i++){const a=i/n*Math.PI*2,x1=cx+Math.cos(a)*r,y1=cy+Math.sin(a)*r,x2=cx+Math.cos(a+.25)*(r+len),y2=cy+Math.sin(a+.25)*(r+len);s+=`<path d="M${x1.toFixed(1)} ${y1.toFixed(1)} Q${(cx+Math.cos(a)*(r+len)).toFixed(1)} ${(cy+Math.sin(a)*(r+len)).toFixed(1)} ${x2.toFixed(1)} ${y2.toFixed(1)}" stroke="${col}" stroke-width="2.2" fill="none" stroke-linecap="round"/>`}return s};
+const dots=(cx,cy,r,n,col,sz)=>{let s='';for(let i=0;i<n;i++){const a=i*2.399,d=r*Math.sqrt((i+.5)/n);s+=`<circle cx="${(cx+Math.cos(a)*d).toFixed(1)}" cy="${(cy+Math.sin(a)*d).toFixed(1)}" r="${sz}" fill="${col}"/>`}return s};
+const svg=b=>`<svg viewBox="0 0 100 100" aria-hidden="true">${b}</svg>`;
+const leaf=(x,y,rot,c='#3f8f4e')=>`<ellipse cx="${x}" cy="${y}" rx="14" ry="6" fill="${c}" transform="rotate(${rot} ${x} ${y})"/>`;
+const ART={
+ rambutan:svg(spikes(50,54,24,34,11,'#d33a2c')+`<circle cx="50" cy="54" r="25" fill="#c62f24"/><circle cx="42" cy="46" r="6" fill="#e86a5a" opacity=".6"/>`+spikes(50,54,20,20,6,'#e8b23a')),
+ lychee:svg(`<path d="M50 20 L50 30" stroke="#6b4a2a" stroke-width="3"/>`+leaf(62,24,-20)+`<ellipse cx="50" cy="58" rx="26" ry="29" fill="#d8434f"/>`+dots(50,58,24,46,'#a8243a',1.8)),
+ longan:svg(`<circle cx="36" cy="58" r="20" fill="#c9a46a"/><circle cx="64" cy="58" r="20" fill="#bf9a5e"/><circle cx="64" cy="58" r="12" fill="#f2ead8"/><circle cx="64" cy="58" r="5" fill="#2b1d14"/><circle cx="66" cy="56" r="1.4" fill="#fff"/>`),
+ mangosteen:svg(`<circle cx="50" cy="58" r="27" fill="#4a1d3d"/><circle cx="41" cy="50" r="7" fill="#6e2d5a" opacity=".7"/>`+[0,1,2,3,4].map(i=>leaf(50+Math.cos(i*1.256-1.57)*9,33+Math.sin(i*1.256-1.57)*5,i*72,'#4f7d3a')).join('')+`<circle cx="50" cy="33" r="4" fill="#3f6b2e"/>`),
+ lilikoi:svg(`<ellipse cx="50" cy="55" rx="28" ry="26" fill="#f2c230"/><path d="M50 55 m-28 0 a28 26 0 0 0 56 0 Z" fill="#f7e9a8"/>`+dots(50,62,17,22,'#3a2a12',2.2)+`<path d="M22 55 H78" stroke="#d9a41c" stroke-width="2"/>`),
+ papaya:svg(`<path d="M50 14 C74 14 82 46 78 66 C74 86 26 86 22 66 C18 46 26 14 50 14Z" fill="#f08a3c"/><path d="M50 26 C64 28 66 50 62 64 C58 76 42 76 38 64 C34 50 36 28 50 26Z" fill="#f6b26b"/>`+dots(50,54,10,18,'#1d1a14',2)),
+ pineapple:svg(`<path d="M50 6 L44 30 L50 24 L56 30Z" fill="#3f8f4e"/><path d="M38 16 L46 32 L50 28Z" fill="#2f7a3e"/><path d="M62 16 L54 32 L50 28Z" fill="#2f7a3e"/><ellipse cx="50" cy="62" rx="22" ry="30" fill="#e3a628"/><path d="M32 46 L66 84 M30 62 L56 92 M40 36 L70 70 M68 46 L34 84 M70 62 L44 92 M60 36 L30 70" stroke="#b87a14" stroke-width="2"/>`),
+ banana:svg(`<path d="M24 30 C24 66 54 82 80 68 C60 72 34 60 32 28Z" fill="#f2d03b"/><path d="M34 26 C36 60 62 74 84 60 C66 64 44 54 42 24Z" fill="#e8c52d"/><rect x="24" y="20" width="20" height="8" rx="3" fill="#6d7a3a"/>`),
+ starfruit:svg(`<path d="M50 12 L60 38 L88 40 L66 58 L74 86 L50 70 L26 86 L34 58 L12 40 L40 38Z" fill="#f2d33b"/><path d="M50 12 L50 70 M88 40 L50 70 M74 86 L50 70 M26 86 L50 70 M12 40 L50 70" stroke="#d6b21f" stroke-width="2"/>`),
+ soursop:svg(`<path d="M50 12 C76 16 82 56 72 76 C64 92 36 92 28 76 C18 56 24 16 50 12Z" fill="#5e9a3f"/>`+dots(50,52,30,34,'#2f5e24',2.2)),
+ abiu:svg(`<ellipse cx="50" cy="56" rx="27" ry="30" fill="#f3cf2d"/><ellipse cx="41" cy="45" rx="7" ry="9" fill="#fbe68a" opacity=".8"/><circle cx="50" cy="27" r="3" fill="#6b7a2a"/>`),
+ mountainapple:svg(`<path d="M50 20 C70 20 76 40 74 58 C72 80 28 80 26 58 C24 40 30 20 50 20Z" fill="#c8264f"/><path d="M44 24 C40 40 40 60 46 74" stroke="#e6668a" stroke-width="3" fill="none" opacity=".7"/><circle cx="50" cy="22" r="3" fill="#4a1a24"/>`),
+ ulu:svg(`<circle cx="50" cy="56" r="28" fill="#8fbf3a"/>`+(()=>{let s='';for(let x=28;x<=72;x+=8)for(let y=34;y<=78;y+=8){if((x-50)**2+(y-56)**2<640)s+=`<path d="M${x-3} ${y} L${x} ${y-3} L${x+3} ${y} L${x} ${y+3}Z" fill="none" stroke="#5e8a22" stroke-width="1.4"/>`}return s})()+`<path d="M50 28 L50 18" stroke="#5a4a2a" stroke-width="3"/>`),
+ avocado:svg(`<path d="M50 10 C62 10 66 30 72 46 C82 70 70 92 50 92 C30 92 18 70 28 46 C34 30 38 10 50 10Z" fill="#3c6b2a"/><path d="M50 22 C58 22 62 36 66 50 C72 70 64 84 50 84 C36 84 28 70 34 50 C38 36 42 22 50 22Z" fill="#cfe08a"/><circle cx="50" cy="62" r="12" fill="#7a4a24"/>`),
+ guava:svg(`<circle cx="50" cy="56" r="28" fill="#a6c84a"/><path d="M50 56 m-28 0 a28 28 0 0 0 56 0 Z" fill="#f07b86"/><path d="M22 56 H78" stroke="#8cb33a" stroke-width="2"/>`+dots(50,66,12,14,'#f8d4a0',1.8)),
+ dragon:svg(`<ellipse cx="50" cy="56" rx="24" ry="30" fill="#e0387a"/>`+[[30,40,-40],[70,40,40],[28,64,-60],[72,64,60],[50,24,0],[40,84,-20],[60,84,20]].map(([x,y,r])=>`<path d="M${x} ${y} l-4 -12 l9 8z" fill="#7fbf3a" transform="rotate(${r} ${x} ${y})"/>`).join('')),
+ poha:svg(`<path d="M50 12 C78 30 80 70 50 90 C20 70 22 30 50 12Z" fill="#d9c79a" opacity=".85"/><path d="M50 12 C60 40 60 70 50 90 M50 12 C40 40 40 70 50 90" stroke="#b9a56f" stroke-width="1.5" fill="none"/><circle cx="50" cy="62" r="14" fill="#f2a624"/>`),
+ ohelo:svg(`<path d="M20 74 C40 60 60 58 82 40" stroke="#6b4a2a" stroke-width="3" fill="none"/>`+leaf(70,36,-30,'#4e8a3e')+leaf(36,58,-15,'#4e8a3e')+[[50,66],[60,60],[42,74],[66,52],[54,74]].map(([x,y])=>`<circle cx="${x}" cy="${y}" r="7" fill="#d23a3a"/><circle cx="${x-2}" cy="${y-2}" r="2" fill="#f08a8a"/>`).join('')),
+ coconut:svg(`<circle cx="50" cy="56" r="30" fill="#6b8f2e"/><circle cx="50" cy="56" r="22" fill="#5a7a24" opacity=".5"/><circle cx="44" cy="40" r="3" fill="#3a4a18"/><circle cx="56" cy="40" r="3" fill="#3a4a18"/><circle cx="50" cy="48" r="3" fill="#3a4a18"/>`)
+};
+const F=[
+ {k:'rambutan',he:'רמבוטן',en:'Rambutan',s:'now',st:'סוף עונה – סביר בשוק',grow:'עץ רב-שנתי, 10–20 מ\'',season:'בערך אוג׳–דצמ׳',
+  taste:'קליפה אדומה "שעירה" שנקלפת ביד, ובפנים בשר לבן ושקוף, עסיסי ומתוק עם חמיצות עדינה – קרוב מאוד לליצ\'י.',
+  fact:'השם מגיע ממלאית: rambut = שיער. רוב הגידול בהוואי באזור Hilo–Puna הגשום. אל תכרסמו את הקליפה הדקה שצמודה לגלעין – היא מרירה.'},
+ {k:'lychee',he:'ליצ\'י',en:'Lychee',s:'no',st:'לא בעונה',grow:'עץ רב-שנתי',season:'בערך מאי–יולי',
+  taste:'קליפה אדומה מחוספסת, בשר לבן ושקוף בטעם פרחוני-מתוק, כמעט כמו מי ורדים.',
+  fact:'הגיע להוואי במאה ה-19 עם מהגרים סינים. שנים טובות ורעות מתחלפות: העץ צריך תקופת קור קלה כדי לפרוח.'},
+ {k:'longan',he:'לונגן',en:'Longan · "עין הדרקון"',s:'maybe',st:'סוף עונה – אולי',grow:'עץ רב-שנתי',season:'בערך אוג׳–אוק׳',
+  taste:'קליפה דקה בצבע חום-בז\', בשר שקוף ומתוק עם טעם מאסקי-עשבי, פחות חמצמץ מליצ\'י.',
+  fact:'כשחוצים אותו, הגלעין השחור עם הנקודה הלבנה נראה כמו אישון – מכאן "עין הדרקון". נמכר באשכולות על הענף.'},
+ {k:'mangosteen',he:'מנגוסטין',en:'Mangosteen',s:'maybe',st:'נדיר ויקר – אם תראו, קנו',grow:'עץ רב-שנתי, צומח לאט מאוד',season:'בערך יולי–אוק׳, יבול קטן',
+  taste:'"מלכת הפירות": פלחים לבנים כמו שום, רכים ומתוקים-חמצמצים, משהו בין אפרסק, תות וליצ\'י.',
+  fact:'עץ צריך 8–15 שנים עד שהוא נותן פרי. טריק: ספרו את "עלי הכותרת" בתחתית הפרי – זה מספר הפלחים בפנים. הקליפה הסגולה מכתימה בגדים.'},
+ {k:'lilikoi',he:'ליליקוי',en:'Lilikoʻi · Passion fruit',s:'now',st:'סביר כמעט כל השנה',grow:'מטפס רב-שנתי (פורה ~5–7 שנים)',season:'כמעט כל השנה, שיאים בקיץ ובחורף',
+  taste:'בשר ג\'לי צהוב-כתום עם זרעים פריכים, ארומטי מאוד וחמוץ-מתוק. אוכלים בכפית.',
+  fact:'בהוואי הזן הנפוץ צהוב. השם ההוואי מיוחס לעמק Lilikoʻi במאווי. חפשו lilikoʻi butter, מלסדה ממולאת ושייב-אייס בטעם ליליקוי.'},
+ {k:'papaya',he:'פפאיה',en:'Papaya',s:'now',st:'כל השנה',grow:'צמח עשבוני ענק ("עץ" בלי עץ), נותן פרי אחרי ~שנה וחי שנים ספורות',season:'כל השנה',
+  taste:'הזנים ההוואיים (Solo) קטנים, כתומים ומתוקים מאוד. מגישים חצי פרי עם סחיטת ליים.',
+  fact:'בשנות ה-90 וירוס כמעט חיסל את הפפאיה ב-Puna. זן מהונדס בשם Rainbow, שפותח באוניברסיטת הוואי, הציל את הענף.'},
+ {k:'pineapple',he:'אננס',en:'Pineapple · Maui Gold',s:'now',st:'כל השנה',grow:'צמח עשבוני (ברומליה); פרי ראשי אחרי 18–24 חודשים, ואחריו עוד 1–2 פירות קטנים',season:'כל השנה',
+  taste:'Maui Gold, שגדל ב-Upcountry מאווי, נחשב מתוק במיוחד ופחות חומצי.',
+  fact:'כל צמח נותן פרי אחד בכל מחזור, מהמרכז שלו. אפשר לשתול את הכתר העלים ולקבל צמח חדש. האננס לא מקומי – הוא הגיע ממרכז אמריקה, והוואי הייתה פעם "בירת האננס" של העולם.'},
+ {k:'banana',he:'בננת תפוח',en:'Apple banana · Maiʻa',s:'now',st:'כל השנה',grow:'צמח עשבוני ענק; כל גבעול נותן אשכול אחד ונכרת, והקנה התת-קרקעי רב-שנתי ומצמיח חדשים',season:'כל השנה',
+  taste:'קצרה ושמנמנה, מוצקה יותר מבננה רגילה, עם חמיצות שמזכירה תפוח.',
+  fact:'בננות (maiʻa) הגיעו עם הפולינזים בקאנו. יש בהוואי עשרות זנים מקומיים – חפשו בשוק זנים שלא תמצאו בבית.'},
+ {k:'starfruit',he:'קרמבולה',en:'Starfruit',s:'now',st:'סביר עכשיו',grow:'עץ רב-שנתי קטן',season:'בערך סוף קיץ–חורף',
+  taste:'פריך ועסיסי, חמוץ-מתוק והדרי. אוכלים עם הקליפה. הצהובים-כתומים מתוקים יותר.',
+  fact:'פרוסה רוחבית נראית ככוכב מחומש. מכיל אוקסלאט – לא מומלץ למי שיש לו בעיות כליה.'},
+ {k:'soursop',he:'אנונה מוריקטה',en:'Soursop · Guanábana',s:'maybe',st:'אולי',grow:'עץ רב-שנתי קטן',season:'עונה ארוכה ולא קבועה',
+  taste:'קליפה ירוקה עם "קוצים" רכים, בשר לבן וקרמי בטעם שבין אננס, תות ובננה, עם חמיצות.',
+  fact:'פרי גדול שיכול לשקול יותר מקילו. את הזרעים השחורים לא אוכלים. בדרך כלל פוגשים אותו כשייק או סורבה.'},
+ {k:'abiu',he:'אביו',en:'Abiu',s:'now',st:'סביר עכשיו',grow:'עץ רב-שנתי',season:'בערך סתיו–חורף',
+  taste:'קליפה צהובה חלקה, בשר שקוף וג\'לי בטעם קרמל-וניל, כמו פודינג. אוכלים בכפית.',
+  fact:'בקליפה יש לטקס דביק – אל תנגסו ישר מהקליפה, השפתיים יידבקו. פרי מאמזונס שכמעט לא מגיע לשווקים מחוץ לאזורים טרופיים.'},
+ {k:'mountainapple',he:'תפוח הר',en:'Mountain apple · ʻŌhiʻa ʻai',s:'no',st:'לא בעונה',grow:'עץ רב-שנתי',season:'בערך קיץ–סתיו',
+  taste:'פריך, מימי ורענן, מתוק עדין – כמו אגס-תפוח מימי.',
+  fact:'צמח קאנו: הפולינזים הביאו אותו להוואי. הפריחה שלו היא פונפונים ורודים-אדומים שמכסים את הקרקע מתחת לעץ.'},
+ {k:'ulu',he:'פרי לחם',en:'Breadfruit · ʻUlu',s:'maybe',st:'אולי',grow:'עץ רב-שנתי, חי עשרות שנים',season:'עונה עיקרית קיץ–סתיו, יבול קטן בחורף',
+  taste:'עמילני ולא מתוק כשבשל לבישול: מאודים, אופים או מטגנים כמו תפוח אדמה. בשל מאוד – רך ומתקתק.',
+  fact:'צמח קאנו וסמל של שפע בתרבות ההוואית. עץ אחד נותן מאות פירות בשנה. בשווקים חפשו ʻulu chips או "ʻulu fries".'},
+ {k:'avocado',he:'אבוקדו הוואי',en:'Hawaiian avocado',s:'now',st:'בעונה עכשיו',grow:'עץ רב-שנתי',season:'בערך נוב׳–אפר׳',
+  taste:'זנים מקומיים כמו Sharwil – חמאתיים ועשירים מאוד.',
+  fact:'חלק מהאבוקדו ההוואי ענקי – פרי אחד יכול לשקול קרוב לקילו. בשוק הם זולים יחסית בעונה.'},
+ {k:'guava',he:'גויאבה',en:'Guava · Kuawa',s:'now',st:'סביר',grow:'שיח או עץ קטן, רב-שנתי',season:'משתנה, עם שיאים',
+  taste:'בשר ורוד, מתוק-חמצמץ ומאסקי. הטעם שפוגשים בכל מקום: מיץ, ריבה, עוגת שיפון ועוגת גבינה בגויאבה.',
+  fact:'נחשבת מין פולש שמשתלט על יערות. ה-strawberry guava (waiawī) הקטנה והאדומה גדלה בר ביערות של Volcano.'},
+ {k:'dragon',he:'פיטאיה',en:'Dragon fruit',s:'maybe',st:'סוף עונה – אולי',grow:'קקטוס מטפס, רב-שנתי',season:'בערך קיץ–סתיו',
+  taste:'בשר לבן או ורוד-מגנטה עם זרעים קטנים, עדין ומרענן, מזכיר קיווי מתון.',
+  fact:'הפרחים הענקיים נפתחים רק בלילה אחד ונסגרים בבוקר. בהוואי יש גם זנים בעלי בשר סגול-עמוק.'},
+ {k:'poha',he:'פוהה',en:'Poha · Cape gooseberry',s:'maybe',st:'אולי',grow:'שיח, בהוואי רב-שנתי קצר חיים',season:'בערך חורף–אביב',
+  taste:'פרי כתום קטן בתוך "פנס" נייר. חמוץ-מתוק, בין עגבנייה שרי לאננס.',
+  fact:'השם ההוואי "poha" מוכר יותר מהשם האנגלי. Poha jam היא מזכרת קלאסית מאזור Volcano וה-Hāmākua.'},
+ {k:'ohelo',he:'אוהלו',en:'ʻŌhelo berry',s:'no',st:'לא בעונה',grow:'שיח נמוך ילידי, רב-שנתי',season:'בערך קיץ–סתיו',
+  taste:'פרי יער קטן אדום-כתום, חמצמץ-מתוק, משפחה של אוכמניות.',
+  fact:'צמח ילידי שגדל על הלבה ליד Kīlauea – אולי ראיתם אותו במכתש. מקודש לפֶּלֶה, אלת הר הגעש: לפי המסורת מגישים לה את הפירות הראשונים לפני שאוכלים. בפארק לא קוטפים.'},
+ {k:'coconut',he:'קוקוס',en:'Coconut · Niu',s:'now',st:'כל השנה',grow:'דקל רב-שנתי',season:'כל השנה',
+  taste:'קוקוס ירוק וצעיר: שותים את המים בקש ואוכלים בכפית את הבשר הרך והג\'לי. קוקוס חום – בשר קשה ושמנוני.',
+  fact:'צמח קאנו שהגיע עם הפולינזים. בדוכנים בצד הדרך (בעיקר בדרך לחאנה) פותחים לכם קוקוס במצ\'טה.'}
+];
+const CANOE=new Set(['banana','mountainapple','ulu','coconut']);
+const list=document.getElementById('list');
+list.innerHTML=F.map(f=>`<article class="fruit" data-s="${f.s}" data-k="${f.k}">
+ <div class="plate">${ART[f.k]}</div>
+ <div class="body">
+  <div class="name"><h2>${f.he}</h2><span>${f.en}</span></div>
+  <div class="tags"><span class="tag ${f.s}">${f.st}</span><span class="tag">🌱 ${f.grow}</span><span class="tag">📅 ${f.season}</span></div>
+  <p><b>טעם:</b> ${f.taste}</p>
+  <p><b>מה מיוחד:</b> ${f.fact}</p>
+ </div></article>`).join('');
+const btns=[...document.querySelectorAll('.filters button')];
+function apply(v){btns.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.f===v)));
+ document.querySelectorAll('.fruit').forEach(el=>{el.hidden=v==='now'?el.dataset.s!=='now':v==='canoe'?!CANOE.has(el.dataset.k):false});
+ try{localStorage.setItem('fruitFilter',v)}catch(e){}}
+btns.forEach(b=>b.addEventListener('click',()=>apply(b.dataset.f)));
+try{const v=localStorage.getItem('fruitFilter');if(v)apply(v)}catch(e){}
+</script>
