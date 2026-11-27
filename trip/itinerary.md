@@ -41,9 +41,14 @@
 - אחה"צ **Chain of Craters Road** (~45 דק' לכל כיוון, נוף של זרמי לבה עד הים): Pauahi Crater → **Mauna Ulu / Puʻu Huluhulu** (1.5–2 ש') → **Puʻu Loa petroglyphs** (~45 דק') → Hōlei Sea Arch ("לא must")
 - ערב: זוהר מ-Keanakākoʻi / Kīlauea Overlook. אוכל בדירה.
 
-### ו' 27.11 — השלמות בפארק → Hilo
-- בוקר: Volcano Art Center / Volcano Winery בכפר (אופציונלי) או יציאה מוקדמת ל-Hilo — ⚠️ Kīpukapuaulu Trail נסגר אחרי Hurricane Nolo (ספט' 2026), לבדוק במרכז המבקרים → **Hawaii Tropical Botanical Garden** (כניסה אחרונה 16:00) + Onomea Scenic Drive → **Akaka Falls** (25 דק' מ-Hilo; לולאה 45 דק').
-- ערב בדירה (Suisan / KTA poke טייקאווי).
+### ו' 27.11 — Volcano → Hilo (עודכן 26.11 בערב)
+- ✅ בוצע ב-26: Kīlauea Iki (לולאה מלאה), Nāhuku. ❌ Chain of Craters – לא בוצע (אופציונלי בבוקר אם מזג האוויר טוב, ~3 ש').
+- ~9:00 יציאה → (25 דק') **Hilo Coffee Mill** (Mountain View, על כביש 11): קפה מקומי, 4.5★ TripAdvisor (180). סיורים/שעות לא עקביים – לבדוק בגוגל.
+- ~10:30 Hilo: **OK Farms (ליד Rainbow Falls)** – סיור חווה 1.5 ש' עם טעימות פירות טרופיים, קפה, שוקולד, מקדמיה ותבלינים (~$68, בתיאום מראש) **או** Lavaloha (חוות קקאו, 1 ש').
+- צהריים Hilo (Café 100 / poke מ-Suisan או KTA). פירות: Hilo Farmers Market פתוח כל יום (קטן בימי חול).
+- ~13:00 **Hawaii Tropical Botanical Garden** (1.5–2 ש', כניסה אחרונה 16:00) + Onomea Scenic Drive → ~15:30 **Akaka Falls** (עד 17:00).
+- ❌ Kaʻū Coffee Mill 11:00 – לא מומלץ: כיוון הפוך (~1.5 ש' נסיעה נוספת), כבר עשו קפה Kaʻū ב-Miranda's, סטטוס אחרי Lala לא ודאי.
+- לינה: Hilo.
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
 - 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** (שמש בוקר = הכי סיכוי לקשת; 5 דק' מהמרכז) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
