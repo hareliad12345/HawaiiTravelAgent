@@ -42,16 +42,16 @@
 - ערב: זוהר מ-Keanakākoʻi / Kīlauea Overlook. אוכל בדירה.
 
 ### ו' 27.11 — Volcano → Hilo (עודכן 26.11 בערב)
-- ✅ בוצע ב-26: Kīlauea Iki (לולאה מלאה), Nāhuku. ❌ Chain of Craters – לא בוצע (אופציונלי בבוקר אם מזג האוויר טוב, ~3 ש').
+- ✅ בוצע ב-26: Kīlauea Iki (לולאה מלאה), Nāhuku, Chain of Craters + Puʻu Huluhulu + Hōlei. הפארק הושלם.
 - ~9:00 יציאה → (25 דק') **Hilo Coffee Mill** (Mountain View, על כביש 11): קפה מקומי, 4.5★ TripAdvisor (180). סיורים/שעות לא עקביים – לבדוק בגוגל.
-- ~10:30 Hilo: **OK Farms (ליד Rainbow Falls)** – סיור חווה 1.5 ש' עם טעימות פירות טרופיים, קפה, שוקולד, מקדמיה ותבלינים (~$68, בתיאום מראש) **או** Lavaloha (חוות קקאו, 1 ש').
+- 🍍 **OK Farms** – אפשר כאן או ב-28 (ראו שם).
 - צהריים Hilo (Café 100 / poke מ-Suisan או KTA). פירות: Hilo Farmers Market פתוח כל יום (קטן בימי חול).
 - ~13:00 **Hawaii Tropical Botanical Garden** (1.5–2 ש', כניסה אחרונה 16:00) + Onomea Scenic Drive → ~15:30 **Akaka Falls** (עד 17:00).
 - ❌ Kaʻū Coffee Mill 11:00 – לא מומלץ: כיוון הפוך (~1.5 ש' נסיעה נוספת), כבר עשו קפה Kaʻū ב-Miranda's, סטטוס אחרי Lala לא ודאי.
 - לינה: Hilo.
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
-- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** (שמש בוקר = הכי סיכוי לקשת; 5 דק' מהמרכז) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
+- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** → ~10:00 **🍍 OK Farms** (מעל Rainbow Falls: ליצ'י, לונגן, רמבוטן + טעימות; תצפית על המפל מהצד השני; ~1.5 ש', ~$68; מדיניות הזמנה סותרת – לבדוק okfarmshawaii.com) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
 - ~14:00 עולים ב-Saddle Road: **Kaumana Caves** (על הדרך) → **Puʻu Huluhulu** (התאקלמות לגובה, מול הפנייה) → **15:30 מפגש לסיור Mauna Kea** (שקיעה בפסגה + כוכבים). חזרה ל-Hilo בחושך – לאט (ערפל, חיות).
 - לינה: Hilo.
 
@@ -62,7 +62,7 @@
 
 ### ב' 30.11 — יום בקונה → טיסה 19:00
 - בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
-- צהריים: **חוות קפה** – Greenwell Farms + Holualoa (Miranda's נמצאת ב-Kaʻū, לא בקונה).
+- צהריים: **☕🍍 Kuaiwi Farm** (Captain Cook) – חווה משפחתית אורגנית, סיור ~2 ש': קפה + קקאו + בננות, אננס, מקדמיה, קינמון; ביקורות: "הקפה הכי טוב שהיה לנו באי". לבדוק זמינות/הזמנה. חלופה: Greenwell Farms.
 - אחה"צ: Kua Bay שחייה → החזרת רכב, KOA עד 17:30.
 
 ### אופציה A (אם סיימנו את Hilo ב-27–28)
