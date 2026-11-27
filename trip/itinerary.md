@@ -51,18 +51,20 @@
 - לינה: Hilo.
 
 ### ש' 28.11 — Hilo + Mauna Kea  ← **אופציה B (מומלצת)**
-- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** → ~10:00 **🍍 OK Farms** (מעל Rainbow Falls: ליצ'י, לונגן, רמבוטן + טעימות; תצפית על המפל מהצד השני; ~1.5 ש', ~$68; מדיניות הזמנה סותרת – לבדוק okfarmshawaii.com) → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
+- 7:00 **Hilo Farmers Market** (שבת = היום הגדול) → ~9:00 **Rainbow Falls + Boiling Pots** → ~~OK Farms~~ (אין מקום) → פירות: טעימות עצמאיות בשוק → **Banyan Drive** (שדרת באניאנים ענקיים שנטעו מפורסמים) → Liliʻuokalani Gardens / Bayfront → Café 100 צהריים → Richardson Ocean Park (אופציונלי).
 - ~14:00 עולים ב-Saddle Road: **Kaumana Caves** (על הדרך) → **Puʻu Huluhulu** (התאקלמות לגובה, מול הפנייה) → **15:30 מפגש לסיור Mauna Kea** (שקיעה בפסגה + כוכבים). חזרה ל-Hilo בחושך – לאט (ערפל, חיות).
 - לינה: Hilo.
 
 ### א' 29.11 — הדרך הנופית: Hilo → Hāmākua → Kohala → Kona
 - ❗ עודכן לפי "נהיגה ארוכה מתישה": 4 קטעים של עד ~1:15 ש', כל עצירה משמעותית, בלי עצירות של 10 דק'.
 - 8:00 Hilo → (1 ש') **Waipiʻo Lookout** + Tex malasadas ב-Honokaʻa → (40 דק') Waimea צהריים → (40 דק', Kohala Mtn Rd) **Pololū Valley – ירידה לחוף (~1–1.5 ש')** + קפה ב-Hāwī → (1 ש') **שקיעה ב-Hāpuna** (מהרשימה שלך) → (45 דק') Kona.
+- 🍍 אופציה בדרך: **Big Island Farms** (ליד Honokaʻa, פרמקלצ'ר, 200+ מינים אכילים) ⚠️ לבדוק סיורים/הזמנה
 - ערב: **מנטות ביציאה מאוחרת ~21:00** (אחרי השקיעה ב-Hāpuna) – ❓ ממתין להחלטה.
 
 ### ב' 30.11 — יום בקונה → טיסה 19:00
 - בוקר: Kealakekua Bay snorkel (סירה/קיאק) או Kahaluʻu/Two Step.
 - צהריים: **☕🍍 Kuaiwi Farm** (Captain Cook) – חווה משפחתית אורגנית, סיור ~2 ש': קפה + קקאו + בננות, אננס, מקדמיה, קינמון; ביקורות: "הקפה הכי טוב שהיה לנו באי". לבדוק זמינות/הזמנה. חלופה: Greenwell Farms.
+- 🍍 **Aloha Adventure Farms – Exotic Fruit Tasting Tour** (Holualoa, 1–1.5 ש', עד 15 איש, רמבוטן/מנגוסטין לפי עונה) – אפשר לשלב עם Kuaiwi (~30 דק' ביניהם).
 - אחה"צ: Kua Bay שחייה → החזרת רכב, KOA עד 17:30.
 
 ### אופציה A (אם סיימנו את Hilo ב-27–28)
